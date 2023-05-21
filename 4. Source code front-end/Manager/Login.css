@@ -1,0 +1,109 @@
+.image-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+.artboard-1-113 {
+  position: relative;
+  width: 46px;
+  height: 64px;
+  object-fit: cover;
+}
+.kebab-ngon13 {
+  position: relative;
+  font-weight: 800;
+}
+.artboard-1-1-parent11 {
+  border-radius: var(--br-3xs);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xl);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  color: var(--tertiary);
+}
+.username {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.login1,
+.username-wrapper {
+  display: flex;
+  align-items: center;
+}
+.username-wrapper {
+  border-radius: var(--br-3xs);
+  background-color: var(--background-1);
+  width: 372px;
+  height: 42px;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  justify-content: flex-start;
+  font-size: var(--headline-4-size);
+}
+.login1 {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 134.19px);
+  justify-content: center;
+  width: 268px;
+  height: 43px;
+}
+.login-wrapper {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--button-highlight);
+  width: 224.39px;
+  height: 44px;
+  overflow: hidden;
+  flex-shrink: 0;
+  transform: rotate(-0.03deg);
+  transform-origin: 0 0;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-white);
+}
+.frame-parent426 {
+  position: absolute;
+  top: calc(50% - 31px);
+  left: calc(50% - 206px);
+  border-radius: var(--br-xl);
+  background-color: var(--background);
+  box-shadow: var(--shadow);
+  height: 336px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.login {
+  position: relative;
+  background-color: var(--background-1);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--headline-2-size);
+  color: var(--color-darkslategray-100);
+  font-family: var(--headline-2);
+}
+textarea{
+  border-radius: var(--br-3xs);
+  background-color: var(--background-1);
+  width: 372px;
+  height: 42px;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  justify-content: flex-start;
+  font-size: var(--headline-4-size);
+}

@@ -1,0 +1,225 @@
+.artboard-1-111 {
+  position: relative;
+  width: 46px;
+  height: 46px;
+  object-fit: cover;
+}
+.kebab-ngon11 {
+  position: relative;
+  font-weight: 800;
+}
+.artboard-1-1-parent9 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  font-size: var(--headline-2-size);
+}
+.qun-n31 {
+  position: relative;
+}
+.instance-parent34,
+.qun-n-wrapper24,
+.qun-n-wrapper26 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.qun-n-wrapper24 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-3xs);
+  padding: var(--padding-8xs) var(--padding-3xs);
+}
+.instance-parent34,
+.qun-n-wrapper26 {
+  border-radius: var(--br-31xl);
+}
+.qun-n-wrapper26 {
+  align-self: stretch;
+  flex: 1;
+  background-color: var(--button-highlight);
+  overflow: hidden;
+  padding: var(--padding-3xs) var(--padding-mini);
+  color: var(--background);
+}
+.instance-parent34 {
+  background-color: var(--background-1);
+  width: 409px;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  text-align: center;
+  color: var(--color-darkslateblue-100);
+}
+.trieu11 {
+  flex: 1;
+  position: relative;
+  color: var(--paragraph);
+  text-align: right;
+  transform: rotate(0.03deg);
+  transform-origin: 0 0;
+}
+.frame-child287 {
+  position: relative;
+  width: 45px;
+  height: 45px;
+}
+.ellipse-wrapper10,
+.frame-parent398 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent398 {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--background);
+  box-shadow: var(--shadow);
+  height: 80.64px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.staff-list1 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  height: 42px;
+}
+.edit-frame,
+.staff-list-group {
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+}
+.edit-frame {
+  border-radius: var(--br-31xl);
+  background-color: var(--secondary);
+  padding: var(--padding-3xs) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--headline-3-size);
+  color: var(--color-black);
+}
+.staff-list-group {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.div336,
+.div337,
+.female17,
+.nguyen-duc-viet21,
+.nguyen-van-linh17 {
+  position: relative;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 239px;
+  height: 33px;
+  flex-shrink: 0;
+}
+.div336,
+.div337,
+.female17,
+.nguyen-van-linh17 {
+  width: 144px;
+}
+.div337,
+.female17,
+.nguyen-van-linh17 {
+  width: 155px;
+}
+.female17,
+.nguyen-van-linh17 {
+  width: 91px;
+}
+.nguyen-van-linh17 {
+  width: 584px;
+}
+.nguyen-duc-viet-thai-parent16 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--background-1);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs) var(--padding-xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.instance-child192 {
+  position: relative;
+  width: 43px;
+  height: 43px;
+}
+.frame-parent400,
+.instance-parent35 {
+  align-self: stretch;
+  display: flex;
+  gap: var(--gap-3xs);
+}
+.frame-parent400 {
+  border-radius: var(--br-xl);
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.instance-parent35 {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--headline-4-size);
+  color: var(--color-black);
+}
+.frame-parent397,
+.frame-parent399 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.frame-parent399 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--background);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  padding: var(--padding-xl);
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--headline-2-size);
+  color: var(--headline-stroke-illustration);
+}
+.frame-parent397 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.manager-nhanvien1 {
+  position: relative;
+  background-color: var(--background-1);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--headline-3-size);
+  color: var(--tertiary);
+  font-family: var(--headline-2);
+}

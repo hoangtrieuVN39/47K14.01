@@ -1,0 +1,295 @@
+.artboard-1-114 {
+  position: relative;
+  width: 46px;
+  height: 46px;
+  object-fit: cover;
+}
+.kebab-ngon14 {
+  position: relative;
+  font-weight: 800;
+}
+.artboard-1-1-parent12 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  font-size: var(--headline-2-size);
+}
+.qun-n42 {
+  position: relative;
+}
+.instance-parent60,
+.qun-n-wrapper28,
+.qun-n-wrapper30 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.qun-n-wrapper28 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-3xs);
+  padding: var(--padding-8xs) var(--padding-3xs);
+}
+.instance-parent60,
+.qun-n-wrapper30 {
+  border-radius: var(--br-31xl);
+}
+.qun-n-wrapper30 {
+  align-self: stretch;
+  flex: 1;
+  background-color: var(--button-highlight);
+  overflow: hidden;
+  padding: var(--padding-3xs) var(--padding-mini);
+  color: var(--background);
+}
+.instance-parent60 {
+  background-color: var(--background-1);
+  width: 409px;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  text-align: center;
+  color: var(--color-darkslateblue-100);
+}
+.trieu13 {
+  flex: 1;
+  position: relative;
+  color: var(--paragraph);
+  text-align: right;
+  transform: rotate(0.03deg);
+  transform-origin: 0 0;
+}
+.frame-child289 {
+  position: relative;
+  width: 45px;
+  height: 45px;
+}
+.ellipse-wrapper12,
+.frame-parent428 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent428 {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--background);
+  box-shadow: var(--shadow);
+  height: 80.64px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.staff-list2 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  height: 42px;
+}
+.frame-child290 {
+  position: relative;
+  width: 43px;
+  height: 43px;
+}
+.staff-list-container {
+  align-self: stretch;
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.div373,
+.div374,
+.female34,
+.nguyen-duc-viet38,
+.nguyen-van-linh34 {
+  position: relative;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 239px;
+  height: 33px;
+  flex-shrink: 0;
+}
+.div373,
+.div374,
+.female34,
+.nguyen-van-linh34 {
+  width: 144px;
+}
+.div374,
+.female34,
+.nguyen-van-linh34 {
+  width: 155px;
+}
+.female34,
+.nguyen-van-linh34 {
+  width: 91px;
+}
+.nguyen-van-linh34 {
+  width: 584px;
+}
+.frame-parent430,
+.nguyen-duc-viet-thai-parent33 {
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  gap: var(--gap-3xs);
+}
+.nguyen-duc-viet-thai-parent33 {
+  flex: 1;
+  background-color: var(--background-1);
+  padding: var(--padding-8xs) var(--padding-xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent430 {
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent429,
+.instance-parent61 {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.instance-parent61 {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--gap-3xs);
+  font-size: var(--headline-4-size);
+  color: var(--color-black);
+}
+.frame-parent429 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--background);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  padding: var(--padding-xl);
+  gap: var(--gap-xl);
+  font-size: var(--headline-2-size);
+  color: var(--headline-stroke-illustration);
+}
+.frame-parent427,
+.frame-parent429,
+.new-staff {
+  display: flex;
+  align-items: center;
+}
+.frame-parent427 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  filter: var(--blur);
+  width: 1440px;
+  height: 1024px;
+  flex-direction: column;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.new-staff {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-child291 {
+  position: relative;
+  width: 35px;
+  height: 35px;
+}
+.new-staff-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  font-size: var(--headline-2-size);
+  color: var(--color-black);
+}
+.span5 {
+  color: var(--tertiary);
+}
+.username-container {
+  border-radius: var(--br-3xs);
+  background-color: var(--background-1);
+  width: 372px;
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.birthday {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.create2 {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 134.19px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 268px;
+  height: 43px;
+}
+.create-frame {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--button-highlight);
+  width: 224.39px;
+  height: 44px;
+  overflow: hidden;
+  flex-shrink: 0;
+  transform: rotate(-0.03deg);
+  transform-origin: 0 0;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--headline-2-size);
+  color: var(--color-white);
+}
+.frame-parent447 {
+  position: absolute;
+  top: calc(50% - 270.5px);
+  left: calc(50% - 206px);
+  border-radius: var(--br-xl);
+  background-color: var(--background);
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-xl);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+  font-size: var(--headline-4-size);
+  color: var(--color-darkslategray-100);
+}
+.manager-nhanvien2 {
+  position: relative;
+  background-color: var(--background-1);
+  width: 100%;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--headline-3-size);
+  color: var(--tertiary);
+  font-family: var(--headline-2);
+}
